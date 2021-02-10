@@ -1,0 +1,66 @@
+*{
+    font-family: 'Kodchasan', sans-serif;
+}
+body{
+    background-color: white;
+}
+.bg--img{
+    background-color: #020202;
+    color: white;
+}
+.bg--nav{
+    background-color: #DBBE6D !important;
+    padding: 0;
+    font-weight: bold;
+}
+.btn--color{
+    background-color: #DBBE6D;
+    font-weight: bold;
+}
+.badge--color{
+    background-color: #F1F1F1;
+    font-weight: bold;
+}
+.img--height{
+    height: 300px;
+}
+.border--botblack{
+    border-bottom: 1px solid #020202;
+}
+.nav-link{
+    
+    color: #020202;
+    font-weight: normal;
+    font-size: 15px;
+}
+.navbar--black {
+    color: black !important;
+    border-color: black !important;
+ }
+.bg--nav a:hover, .bg--nav a.active 
+{
+    color: #DBBE6D !important;
+    background: #020202 !important;
+}
+.m--page{
+    background-color: #f9fbff;
+    border-radius: 10px;
+    width: 95%;
+}
+.border--trans{
+    border-color: transparent;
+}
+/* ADMIN */
+
+.admin
+{
+    background: #020202;
+    padding: 50px;
+    border-radius: 10px;
+}
+/* INSERT PHP*/
+.help-inline
+{
+    color: red;
+}
+
